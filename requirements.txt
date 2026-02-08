@@ -1,0 +1,10 @@
+# StoryTeller AI - Python Dependencies
+
+# IBM WatsonX AI SDK
+ibm-watsonx-ai>=0.2.0
+
+# Google Text-to-Speech
+gTTS>=2.3.0
+
+# IPython for audio display in Jupyter notebooks
+ipython>=8.0.0
